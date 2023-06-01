@@ -3,7 +3,7 @@ TROFIM VICTORIA, 313CD
 - LISTA DUBLU INLANTUITA CU SANTINELA
 - STIVA
 - COADA
-- 
+
 1 Descriere bandă magică
 
 Initial, degetul se află pe pozitia 1. El nu se poate muta mai la stânga de pozitia 1, în
